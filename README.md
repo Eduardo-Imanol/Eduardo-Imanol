@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Full+Stack+Learner;Building+Multiplatform+Apps" />
+</p>
 
-<!--
-**Eduardo-Imanol/Eduardo-Imanol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Hi there 👋
+Soy **Eduardo Imanol**, desarrollador Full Stack Jr. enfocado en crear soluciones multiplataforma eficientes, herramientas educativas y arquitecturas escalables. Mi enfoque técnico combina la agilidad del frontend moderno con la robustez del backend compilado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,react,html,css,js,go,firebase,mysql,python,git,vscode" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | Flutter, Next.js, React, HTML5, CSS3, JavaScript |
+| **Backend** | Go (Golang), Firebase, MySQL, Python |
+| **Herramientas** | Git, GitHub, VS Code, Xcode |
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **Plataforma Educativa (Salud)**
+    * *Stack:* Next.js.
+    * *Enfoque:* Educación interactiva con 50+ flashcards y sistema de evaluación.
+* **Excel to MySQL Exporter**
+    * *Stack:* Flutter, Go, MySQL.
+    * *Enfoque:* Gestión de datos multiplataforma y comunicación eficiente cliente-servidor.
+* **Markdown Notes (WIP)**
+    * *Stack:* Flutter, Firebase.
+    * *Enfoque:* Gestión de notas, control de pagos y renderizado de Markdown.
+* **Language Learning App (WIP)**
+    * *Stack:* Next.js, React.
+    * *Enfoque:* Gamificación aplicada a la adquisición de idiomas.
+
+---
+
+### 🧠 Enfoque de aprendizaje actual
+* Profundizando en **Backend con Go** y arquitectura de microservicios.
+* Optimización de rendimiento en **Flutter**.
+* Refinamiento de principios **UI/UX**.
+
+---
+
+### 📊 GitHub Stats
+*(Recuerda cambiar `TUUSUARIO` por tu usuario real)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+<p align="center">
+  <img src="LINK_DE_TU_IMAGEN_AQUI" alt="Banner Multiplatform" />
+</p>
