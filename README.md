@@ -43,3 +43,18 @@ Soy **Eduardo Imanol**, desarrollador Full Stack Jr. enfocado en crear solucione
 * Profundizando en **Backend con Go** y arquitectura de microservicios.
 * Optimización de rendimiento en **Flutter**.
 * Refinamiento de principios **UI/UX**.
+
+---
+
+---
+
+### 🌐 Portafolio Profesional
+> Explora mis proyectos, trayectoria y detalles técnicos en mi portafolio web.
+
+<p align="center">
+  <a href="https://portafolio-eduardoimanol.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visita_mi_Portafolio-00F7FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portafolio"/>
+  </a>
+</p>
+
+---
