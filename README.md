@@ -43,17 +43,3 @@ Soy **Eduardo Imanol**, desarrollador Full Stack Jr. enfocado en crear solucione
 * Profundizando en **Backend con Go** y arquitectura de microservicios.
 * Optimización de rendimiento en **Flutter**.
 * Refinamiento de principios **UI/UX**.
-
----
-
-### 📊 GitHub Stats
-*(Recuerda cambiar `TUUSUARIO` por tu usuario real)*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-<p align="center">
-  <img src="LINK_DE_TU_IMAGEN_AQUI" alt="Banner Multiplatform" />
-</p>
