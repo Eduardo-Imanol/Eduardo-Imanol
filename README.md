@@ -5,7 +5,7 @@
 ---
 
 ### 💻 Hi there 👋
-Soy **Eduardo Imanol**, desarrollador Full Stack Jr. enfocado en crear soluciones multiplataforma eficientes, herramientas educativas y arquitecturas escalables. Mi enfoque técnico combina la agilidad del frontend moderno con la robustez del backend compilado.
+Soy **Eduardo Imanol**, desarrollador Frontend/mobile Jr. enfocado en crear soluciones multiplataforma eficientes, herramientas educativas y arquitecturas escalables. Mi enfoque técnico combina la agilidad del frontend moderno con la robustez del backend compilado.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,nextjs,react,html,css,js,go,firebase,mysql,python,git,vscode" />
@@ -43,8 +43,6 @@ Soy **Eduardo Imanol**, desarrollador Full Stack Jr. enfocado en crear solucione
 * Profundizando en **Backend con Go** y arquitectura de microservicios.
 * Optimización de rendimiento en **Flutter**.
 * Refinamiento de principios **UI/UX**.
-
----
 
 ---
 
